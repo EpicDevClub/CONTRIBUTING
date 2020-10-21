@@ -1,6 +1,5 @@
 # CONTRIBUTING IS SO EASY
 
-
 ## How to contribute
 
 Here you will learn how you can contribute to this project and can make your first contribution
@@ -15,7 +14,7 @@ To clone the repository go to your account open this repo and either click on cl
 
 > git clone "URL you just copied"
 
-e.g. git clone https://github.com/yourgithubusername/Your-First-Open-Source-Contribution.git
+e.g. git clone https://github.com/EpicDevClub/CONTRIBUTING.git
 
 ## 3. Create a branch
 
@@ -25,7 +24,7 @@ create a new branch using below command
 
 > git checkout -b <add-your-github-username>
 
-e.g. git checkout -b add-owais431
+e.g. git checkout -b add-milton
 
 ## 4. Lets make some contributions
 
@@ -61,7 +60,7 @@ Once you have pushed your code to GitHub, now it's time to create `pull request`
 
 Soon, we will be merging all your pull requests to the main branch of project and you will also get notification once your pull request is merged with existing code base. After that you will be able to see your details in contributor section on the page below
 
-### [MLSA Student Club Contributor]("https://mlsacontributor.herokuapp.com/")
+### [Epic Dev Club Contributors](https://mlsacontributor.herokuapp.com/)
 
 ## Contributors ✨
 
