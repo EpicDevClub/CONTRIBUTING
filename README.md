@@ -60,7 +60,7 @@ Once you have pushed your code to GitHub, now it's time to create `pull request`
 
 Soon, we will be merging all your pull requests to the main branch of project and you will also get notification once your pull request is merged with existing code base. After that you will be able to see your details in contributor section on the page below
 
-### [Epic Dev Club Contributors](https://mlsacontributor.herokuapp.com/)
+### [Epic Dev Club Contributors](https://localhost/)
 
 ## Contributors ✨
 
